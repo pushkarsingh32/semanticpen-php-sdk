@@ -50,10 +50,12 @@
         "email": "contact@semanticpen.com",
         "docs": "https://docs.semanticpen.com/sdk"
     },
-    "funding": {
-        "type": "subscription",
-        "url": "https://www.semanticpen.com/pricing"
-    },
+    "funding": [
+        {
+            "type": "subscription",
+            "url": "https://www.semanticpen.com/pricing"
+        }
+    ],
     "require": {
         "php": ">=7.4",
         "ext-curl": "*",
