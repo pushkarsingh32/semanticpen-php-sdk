@@ -35,7 +35,7 @@
         "seo",
         "blog"
     ],
-    "homepage": "https://docs.semanticpen.com/sdk",
+    "homepage": "https://www.semanticpen.com",
     "readme": "README.md",
     "license": "MIT",
     "authors": [
@@ -46,9 +46,9 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/semanticpen/php-sdk/issues",
+        "issues": "https://github.com/pushkarsingh32/semanticpen-php-sdk/issues",
         "email": "contact@semanticpen.com",
-        "docs": "https://docs.semanticpen.com/sdk"
+        "docs": "https://www.semanticpen.com/api-documentation"
     },
     "funding": [
         {
