@@ -1,5 +1,5 @@
 {
-    "name": "semanticpen/sdk",
+    "name": "semanticpen/semanticpen",
     "description": "AI Article Writer & SEO Blog Generator SDK - Professional PHP library for automated content creation, AI-powered article generation, and SEO blog writing with SemanticPen",
     "type": "library",
     "keywords": [
